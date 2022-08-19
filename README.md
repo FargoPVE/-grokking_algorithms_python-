@@ -12,3 +12,4 @@ ____
 * [Подсчет элементов, используя рекурсию.](https://github.com/FargoPVE/-grokking_algorithms_python-/blob/main/06_counting_elements_recursion.py)
 * [Поиск наибольшего элемента, используя рекурсию.](https://github.com/FargoPVE/-grokking_algorithms_python-/blob/main/07_max_element_recursion.py)
 * [Быстрая сортировка, используя рекурсию.](https://github.com/FargoPVE/-grokking_algorithms_python-/blob/main/08_quick_sort.py)
+* [Поиск в ширину, используя хеш-таблицы (словари) и двусторонние очереди.](https://github.com/FargoPVE/-grokking_algorithms_python-/blob/main/09_breadth-first_search_deque_hash.py)
